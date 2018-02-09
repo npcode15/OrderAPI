@@ -2,8 +2,8 @@ BY NAVNEET PANDEY - For Zappos Data Science Internship
 
 System Requirement
 ------------------
-MongoDB community Edition
-Spring-Boot
+- MongoDB community Edition
+- Spring-Boot
 
 API Use (Make sure MongoDb Server is running in the background)
 -------
